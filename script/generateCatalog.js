@@ -1,5 +1,9 @@
 'use strict';
 
+/**
+ * function generateCatalog
+ *  вставляет HTML-код каталога перед закрывающимся тегом body
+ */
 const generateCatalog = () => {
   const catalog = `
     <div class="catalog">
