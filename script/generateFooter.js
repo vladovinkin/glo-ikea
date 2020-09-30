@@ -1,5 +1,10 @@
 'use strict';
 
+/**
+ * function generateFooter
+ *  вставляет HTML-код подвала перед закрывающимся тегом body
+ */
+
 const generateFooter = () => {
   const footer = `
     <footer>

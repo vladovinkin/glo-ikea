@@ -1,5 +1,10 @@
 'use strict';
 
+/**
+ * function generateSubCatalog
+ *  вставляет HTML-код подкаталога перед закрывающимся тегом body
+ */
+
 const generateSubCatalog = () => {
   const subCatalog = `
     <div class="subcatalog">

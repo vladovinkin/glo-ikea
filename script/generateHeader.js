@@ -1,5 +1,10 @@
 'use strict';
 
+/**
+ * function generateHeader
+ *  вставляет HTML-код шапки после открывающегося тега body
+ */
+
 const generateHeader = () => {
   const header = `
     <header>
